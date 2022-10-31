@@ -1,0 +1,274 @@
+<!-- </div>
+         <div class="about-img">
+            <img src="p2.jpg" alt="">
+        </div> 
+        </div> -->
+    <!-- </section> -->
+    <!-- <section class="projects" id="projects">
+        <h2 class="title">Projects</h2>
+        <div class="content">
+                    <div class="project-card">
+                         <div class=" project-image"><img src="calculator.png" ></div> 
+                        <strong class="project-title">
+                            <h2>calculator<h2>
+                        <div class="project-info">
+                        <p class="project-category">Design a wonderful calculator using the grid feature</p>
+                        <a href="" target="_blank" ><button class="project-btn">View on Github</button></a>
+                    </div>
+                </div>
+                
+                
+                <div class="project-card">
+                    <div class=" project image"><img src="" ></div>
+                    <strong class="project-title">
+                        <h2>Blog<h2>
+                    <div class="project-info">
+                    <p class="project-category">Design a wonderful Blog using simple code</p>
+                    <a href="" target="_blank" ><button class="project-btn">View on Github</button></a>
+                </div>
+            </div>
+            
+              
+          
+             
+        <div class="project-card">
+            <div class=" project image"><img src="" ></div>
+            <strong class="project-title">
+                <h2>picture</picture><h2>
+            <div class="project-info">
+            <p class="project-category">Design a wonderful picture using the grid feature</p>
+            <a href="" target="_blank" ><button class="project-btn">View on Github</button></a>
+        </div>
+    </div>
+             
+            
+            </div>
+        
+    </section> -->
+    
+    
+    
+    
+    
+    
+     
+    <!-- <div class="contact" id="CONTACT">
+        <h2 class="title">CONTACT Me</h2> -->
+        <!-- <div class="sec sec1">  -->
+            <!-- <h1>Contact Me</h1> -->
+            <!-- <br>
+            <form> 
+              <div class="input">
+                <input type="text" class="form-control form-control-lg" placeholder="Name"><br>
+                <input type="email" class="form-control mt-3" placeholder="Email"><br>
+                <input type="text" class="form-control mt-3" placeholder="Subject"><br>
+                <div class="mb-3 mt-3">
+                    <textarea class="form-control" rows="5" id="comment" name="text" placeholder="Project Details"></textarea>
+                </div>
+                <button type="button" class="btn btn-success mt-3">Contact Me</button>
+            </div> 
+               -->
+              <!-- <button type="button" class="btn btn-success mt-3">Contact Me</button> -->
+                    
+        <!-- </div> -->
+        <!-- <div class="sec sec2">
+
+            <div class="icon">
+                <i class="fas fa-map-marker-alt"> Jordan / Amman</i> <br>
+                <i class="fas fa-phone-alt"> 077809873 </i> <br>
+                <i class="fas fa-envelope"> rahaff.shebli@gmail.com</i> <br> <br> <br>
+                <div class="social-icons">
+                    <a href="https://www.linkedin.com/in/rahaf-alabadi-2b7367244"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://www.facebook.com/rahf.abadi.7"><i class="fab fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/rahaff_alabadi"><i class="fab fa-instagram"></i></a>
+                    <a href="https://github.com/rahaf-alshebli"><i class="fab fa-github"></i></a>
+                </div>
+            </div>
+        </form>
+    </div>
+      </section> -->
+      
+      
+      
+      /* .projects {
+        background-color: #000016;
+    } */
+    
+    /* .projects .content{
+        margin-top: 30px;
+    }
+    
+    .project-card {
+        background-color: #fff;
+        border: 1px solid #fff;
+        min-height: 15em;
+        width: 700px;
+        overflow: hidden;
+        border-radius: 10px;
+        margin: 20px;
+        transition: 0.7s ease;
+    }
+    
+    .project-card:hover {
+       transform: scale(1.1);
+    }
+    
+    .project-card:hover .project-image {
+        opacity: 0.9;
+     }
+    
+    .project-image img{
+        width: 100%
+    }
+    
+    .project-info {
+        padding: 1em;
+    }
+    
+    .project-category {
+        font-size: 0.8em;
+        color: #000;
+    } */
+    
+    /* .project-title {
+        display: flex;
+        justify-content: space-between;
+        text-transform: uppercase;
+        font-weight: 800;
+        margin-top: 10px;
+    } */
+    
+    /* .project-title { */
+        /* display: flex; */
+        /* justify-content: space-between; */
+        /* text-transform: uppercase; */
+        /* font-weight: 800; */
+        /* margin-top: 10px; */
+    /* }
+    
+    .project-btn {
+        text-decoration: none;
+        color: #3a6cf4;
+    }
+    
+    .project-btn:hover {
+        color: #601cfc;
+    } */
+    /* form{
+        
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    .contact .info h3 {
+        color: #000;
+    }
+    
+    .contact .info p {
+        font-size: 1.5em;
+    }
+     .social-icons a{
+        font-size: 1.6em;
+        padding:  10px ;
+        color: #f0f0f0;
+    }
+    .icon{
+        margin-top: 20px;
+    } */
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    /*   
+footer {
+    background-color: #000016;
+    color: #fff; */
+    /* padding: 2em;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+} */
+/* footer ul{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    list-style: none; */
+
+/* }
+footer li{
+    padding-left: 40px;
+} */
+/* .footer-title { */
+    /* font-size: 1.3em; */
+    /* font-weight: 600; */
+/* } */
+
+
+
+ /* input{
+    width: 420px;
+    margin-top: 20px;
+    
+    
+}
+
+textarea{
+    width: 420px;
+    margin-top: 20px;
+} */
+
+      
+      
+      
+      
+      
+      
+      
+      <!-- <section id="footer"> -->
+   <!-- <footer class="footer">
+    <div class="container">
+        <br>
+            <ul class="list-inline">
+                <li class="list-inline-item"><a href="#">Home</a></li>
+                <li class="list-inline-item"><a href="#ABOUT Me">About Me</a></li>
+                <li class="list-inline-item"><a href="#QUALIFICATION">Qualification</a></li>
+                <li class="list-inline-item"><a href="#">Privacy Policy</a></li>
+            </ul> 
+            <br>
+            <p class="copyright">Rahaf @2022</p> 
+    </div>
+    
+              -->
+           <!-- <div class="Rahaf"> <h4>Home</h4> <h4>About Me</h4> <h4>Qualification</h4></div>Privacy Polic</div>
+        </div>
+        </footer>
+   
+        <p class="copyright">Rahaf @2022</p>
+        
+    
+     -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
